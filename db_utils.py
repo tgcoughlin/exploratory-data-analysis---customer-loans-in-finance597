@@ -49,5 +49,8 @@ def load_local_file(file_path):
 
 finance_df = load_local_file('loan_payments.csv')   
 print(finance_df.head())
-print(finance_df.shape)
+print(finance_df.dtypes)
 print(finance_df.info())
+
+
+
