@@ -1,8 +1,15 @@
-Project Title - EDS Loan Finance
+--Project Title - EDS Loan Finance
 
-Table of Contents, if the README file is long
+--Table of Contents, if the README file is long
 
-A description of the project: what it does, the aim of the project, and what you learned
+--A description of the project: what it does, the aim of the project, and what you learned
+This project is intended to practice core data transformations for dataframes, so as to tidy and analyse data. 
+It involves:
+-Setting the correct datatypes
+-imputing nul-values
+-removing outliers
+-removing overly correlated variables
+
 
 -- Installation instructions
 
